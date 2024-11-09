@@ -96,3 +96,6 @@ outputs
 !/data/raw/
 venv
 .venv.zip
+
+#data
+/data
